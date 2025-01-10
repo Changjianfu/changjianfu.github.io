@@ -8,7 +8,7 @@ general_email: changjianfuatscudotedudotcn
 
 baseurl: "/homepage/" # the subpath of your site, e.g. /blog/
 
-url: "https://changjian.github.io" # the base hostname & protocol for your site
+url: "https://changjianfu.github.io" # the base hostname & protocol for your site
 
 # twitter_username: jekyllrb
 #github_username: github_username
