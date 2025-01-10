@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/profile.jpg" caption="A sassy caption here" width=300 align="right" %}
+{% include image.html url="/images/mountain.jpg" caption="Let's Think!" width=300 align="right" %}
 
-Describe yourself here. Dummy text ahead.
+我的研究方向为代数表示论, 近年来主要关注代数表示论与量子群、丛代数和组合数学等方面的联系.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+代数表示论研究结合代数的表示理论，主要关注给定代数的表示范畴的结构和同调性质，其中一个基本的问题即是对于给定的代数在同构意义下对其（带特定条件的）表示进行分类.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
+代数表示论可以看作"高阶"的线性代数. 当代数为域k本身, 则k的有限生成表示的分类等价于线性代数中的有限维线性空间的同构定理: 域k上的n维线性空间同构于k^n; 当此代数为二阶下三角矩阵代数时，此代数的有限生成表示的分类等价于矩阵在相抵意义下的分类; 当此代数为多项式代数时，则有限维模的分类约化为矩阵的相似理论. 代数表示论经过几十年的发展，与诸多其他数学分支产生了紧密的联系，在数学物理、几何不变量、李理论和数论等各方面都有深刻的应用。
 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.

@@ -4,21 +4,21 @@
 - title: "Research"
   href: "/research/"
 
-- title: "Projects"
-  href: "/projects/"
+- title: "Teaching"
+  href: "/teaching/"
 
-- title: "Blog"
-  href: "/blog/"
+- title: "Conference&Talk"
+  href: "/talk/"
 
-- title: "CV"
-  href: "/cv/"
+- title: "Links"
+  href: "/links/"
 
-- title: "Miscellany"
-  href: "/miscellany/"
-  subcategories:
-    - subtitle: "Courses Undertaken"
-      subhref: "/miscellany/courses/"
-    - subtitle: "Extracurriculars"
-      subhref: "/miscellany/extracurricular/"
-    - subtitle: "Travel"
-      subhref: "/miscellany/travel/"
+#- title: "Miscellany"
+#  href: "/miscellany/"
+ # subcategories:
+    #- subtitle: "Courses Undertaken"
+      #subhref: "/miscellany/courses/"
+    #- subtitle: "Extracurriculars"
+      #subhref: "/miscellany/extracurricular/"
+    #- subtitle: "Travel"
+      #subhref: "/miscellany/travel/"
