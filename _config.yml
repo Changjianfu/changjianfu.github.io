@@ -3,10 +3,10 @@ title: Changjian Fu
 general_email: changjianfuatscudotedudotcn
 
 
-description: > # this means to ignore newlines until "baseurl:"
- Mathematics!
+#description: > # this means to ignore newlines until "baseurl:"
+ #Mathematics!
 
-#baseurl: "/homepage/" # the subpath of your site, e.g. /blog/
+baseurl: "/homepage/" # the subpath of your site, e.g. /blog/
 
 url: "https://changjianfu.github.io" # the base hostname & protocol for your site
 
