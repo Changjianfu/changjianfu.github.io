@@ -14,22 +14,22 @@ title: Research
     </li>
     <li>
         <b>On denominator conjecture for cluster algebras of finite type.</b><br>
-        <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1013/3064.htm">Shengfei GENG</a><br>
+        <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1252/2475.htm">Shengfei GENG</a><br>
         <a href="https://arxiv.org/abs/2409.10914"><div class="color-button">arXiv:2409.10914</div></a><br>
     </li>
     <li>
         <b>Denominator conjecture for some surface cluster algebras.</b><br>
-        <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1013/3064.htm">Shengfei GENG</a><br>
+        <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1252/2475.htm">Shengfei GENG</a><br>
         <a href="https://arxiv.org/abs/2407.11826"><div class="color-button">arXiv:2407.11826</div></a><br>
     </li>
     <li>
         <b>τ-tilting graphs and quotients.</b><br>
-        <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1013/3064.htm">Shengfei GENG</a>, <a href="https://faculty.swjtu.edu.cn/LiuPin/zh_CN/index/87705/list/index.htm">Pin LIU</a><br>
+        <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1252/2475.htm">Shengfei GENG</a>, <a href="https://faculty.swjtu.edu.cn/LiuPin/zh_CN/index/87705/list/index.htm">Pin LIU</a><br>
         <a href="https://arxiv.org/abs/2401.05158"><div class="color-button">arXiv:2401.05158</div></a><br>
     </li>
     <li>
         <b>Intersection vectors over tilings with applications to gentle algebras and cluster algebras.</b><br>
-        <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1013/3064.htm">Shengfei GENG</a><br>
+        <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1252/2475.htm">Shengfei GENG</a><br>
         <a href="https://arxiv.org/abs/2212.11497"><div class="color-button">arXiv:2212.11497</div></a><br>
     </li>
 </ul>
@@ -60,19 +60,19 @@ title: Research
     </li>
     <li>
         <b>"On maximal green sequence for quivers arising from weighted projective lines"</b><br>
-        <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1013/3064.htm">Shengfei GENG</a><br>
+        <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1252/2475.htm">Shengfei GENG</a><br>
         <i>Algebr. Represent. Theory</i> (2023) 26, 1713-1729.
         <a href="https://doi.org/10.1007/s10468-022-10152-3"><div class="color-button">DOI</div></a><br>
     </li>
     <li>
         <b>"Exchange graphs of cluster algebras have the non-leaving-face property"</b><br>
-        <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1013/3064.htm">Shengfei GENG</a>, <a href="https://faculty.swjtu.edu.cn/LiuPin/zh_CN/index/87705/list/index.htm">Pin LIU</a><br>
+        <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1252/2475.htm">Shengfei GENG</a>, <a href="https://faculty.swjtu.edu.cn/LiuPin/zh_CN/index/87705/list/index.htm">Pin LIU</a><br>
         <i>Bulletin London Math. Soc.</i> (2023), 55, 2062-2069.
         <a href="https://doi.org/10.1112/blms.12836"><div class="color-button">DOI</div></a><br>
     </li>
     <li>
         <b>"On support τ-tilting graphs of gentle algebras"</b><br>
-        <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1013/3064.htm">Shengfei GENG</a>, <a href="https://faculty.swjtu.edu.cn/LiuPin/zh_CN/index/87705/list/index.htm">Pin LIU</a>, <a href="https://sites.google.com/view/yuzhoumath/">Yu ZHOU</a><br>
+        <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1252/2475.htm">Shengfei GENG</a>, <a href="https://faculty.swjtu.edu.cn/LiuPin/zh_CN/index/87705/list/index.htm">Pin LIU</a>, <a href="https://sites.google.com/view/yuzhoumath/">Yu ZHOU</a><br>
         <i>Journal of Algebra</i> (2023), 628, 189-211.
         <a href="https://doi.org/10.1016/j.jalgebra.2023.03.013"><div class="color-button">DOI</div></a><br>
     </li>
@@ -96,49 +96,49 @@ title: Research
     </li>
     <li>
         <b>"丛代数中的整数向量"</b><br>
-        <strong>付昌建</strong>, <a href="https://math.scu.edu.cn/info/1013/3064.htm">耿圣飞</a>, <a href="https://faculty.swjtu.edu.cn/LiuPin/zh_CN/index/87705/list/index.htm">刘品</a><br>
+        <strong>付昌建</strong>, <a href="https://math.scu.edu.cn/info/1252/2475.htm">耿圣飞</a>, <a href="https://faculty.swjtu.edu.cn/LiuPin/zh_CN/index/87705/list/index.htm">刘品</a><br>
         <i>数学理论与应用</i> 42卷 第1期 (2022), 1-15.
         <a href="http://mta.csu.edu.cn/CN/Y2022/V42/I1/1"><div class="color-button">DOI</div></a><br>
     </li>
     <li>
         <b>"On cluster-tilting graphs for hereditary categories"</b><br>
-        <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1013/3064.htm">Shengfei GENG</a><br>
+        <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1252/2475.htm">Shengfei GENG</a><br>
         <i>Adv. Math.</i> 383 (2021), Paper No. 107670, 26 pp.
         <a href="https://doi.org/10.1016/j.aim.2021.107670"><div class="color-button">DOI</div></a><br>
     </li>
     <li>
         <b>"Cluster algebras arising from cluster tubes I: integer vectors"</b><br>
-        <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1013/3064.htm">Shengfei GENG</a>, <a href="https://faculty.swjtu.edu.cn/LiuPin/zh_CN/index/87705/list/index.htm">Pin LIU</a><br>
+        <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1252/2475.htm">Shengfei GENG</a>, <a href="https://faculty.swjtu.edu.cn/LiuPin/zh_CN/index/87705/list/index.htm">Pin LIU</a><br>
         <i>Math. Zeit.</i> 297 (2021), no. 3-4, 1793–1824.
         <a href="https://doi.org/10.1007/s00209-020-02580-y"><div class="color-button">DOI</div></a><br>
     </li>
     <li>
         <b>"On cluster categories of weighted projective lines with at most three weights"</b><br>
-        <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1013/3064.htm">Shengfei GENG</a><br>
+        <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1252/2475.htm">Shengfei GENG</a><br>
         <i>J. Algebra</i> 573 (2021), 16–37.
         <a href="https://doi.org/10.1016/j.jalgebra.2020.12.027"><div class="color-button">DOI</div></a><br>
     </li>
     <li>
         <b>"Cluster algebras arising from cluster tubes II: The Caldero-Chapoton map"</b><br>
-        <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1013/3064.htm">Shengfei GENG</a>, <a href="https://faculty.swjtu.edu.cn/LiuPin/zh_CN/index/87705/list/index.htm">Pin LIU</a><br>
+        <strong>Changjian FU</strong>,<a href="https://math.scu.edu.cn/info/1252/2475.htm">Shengfei GENG</a>, <a href="https://faculty.swjtu.edu.cn/LiuPin/zh_CN/index/87705/list/index.htm">Pin LIU</a><br>
         <i>J. Algebra</i> 544 (2020), 228-261.
         <a href="https://doi.org/10.1016/j.jalgebra.2019.10.025"><div class="color-button">DOI</div></a><br>
     </li>
       <li>
           <b>"Tilting modules and support τ-tilting modules over preprojective algebras associated with symmetrizable Cartan matrices"</b><br>
-          <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1013/3064.htm">Shengfei GENG</a><br>
+          <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1252/2475.htm">Shengfei GENG</a><br>
         <i>Algebr. Represent. Theory</i>  22 (2019), no. 5, 1239–1260.
        <a href="https://doi.org/10.1007/s10468-018-9819-z"><div class="color-button">DOI</div></a><br>    
        </li>
         <li>
             <b>"On indecomposable τ-rigid modules for cluster-tilted algebras of tame type"</b><br>
-            <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1013/3064.htm">Shengfei GENG</a><br> 
+            <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1252/2475.htm">Shengfei GENG</a><br> 
             <i>J. Algebra </i>  531 (2019), 249–282.
             <a href="https://doi.org/10.1016/j.jalgebra.2019.04.024"><div class="color-button">DOI</div></a><br>   
        </li>
         <li>
             <b>"Relative rigid objects in triangulated categories"</b><br>
-            <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1013/3064.htm">Shengfei GENG</a> and <a href="https://faculty.swjtu.edu.cn/LiuPin/zh_CN/index/87705/list/index.htm">Pin LIU</a><br>. 
+            <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1252/2475.htm">Shengfei GENG</a> and <a href="https://faculty.swjtu.edu.cn/LiuPin/zh_CN/index/87705/list/index.htm">Pin LIU</a><br>. 
             <i>J. Algebra </i>   520 (2019), 171–185. 
         <a href="https://doi.org/10.1016/j.jalgebra.2018.11.016"><div class="color-button">DOI</div></a><br >  
        </li>
