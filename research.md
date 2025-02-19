@@ -9,7 +9,7 @@ title: Research
 <ul>
     <li>
         <b>A correspondence between additive and monoidal categorifications with application to Grassmannian cluster categories.</b><br>
-        Karin BAUR, <strong>Changjian FU</strong>, <a herf="https://sites.google.com/view/jianrong-li/home">Jianrong LI</a><br>
+        Karin BAUR, <strong>Changjian FU</strong>, <a href="https://sites.google.com/view/jianrong-li/home">Jianrong LI</a><br>
         <a href="https://arxiv.org/abs/arXiv:2410.04401"><div class="color-button">arXiv:2401.04401</div></a><br>
     </li>
     <li>
