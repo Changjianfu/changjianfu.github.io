@@ -7,6 +7,11 @@ title: Research
 
 <h2>Preprints</h2>
 <ul>
+     <li>
+        <b>Pseudo grading on cluster automorphism group with application to cluster algebras of rank 3.</b><br>
+      <strong>Changjian FU</strong>, Zhanhong LIANG<br>
+        <a href="https://arxiv.org/abs/arXiv:2503.22101"><div class="color-button">arXiv:2503.22101</div></a><br>
+    </li>
     <li>
         <b>A correspondence between additive and monoidal categorifications with application to Grassmannian cluster categories.</b><br>
         Karin BAUR, <strong>Changjian FU</strong>, <a href="https://sites.google.com/view/jianrong-li/home">Jianrong LI</a><br>
