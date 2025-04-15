@@ -8,6 +8,11 @@ title: Research
 <h2>Preprints</h2>
 <ul>
      <li>
+        <b>A short proof for the acyclicity of oriented exchange graphs of cluster algebras.</b><br>
+       Shuhao DENG, <strong>Changjian FU</strong><br>
+        <a href="https://arxiv.org/abs/arXiv:2504.10245"><div class="color-button"> arXiv:2504.10245</div></a><br>
+    </li>
+     <li>
         <b>Pseudo grading on cluster automorphism group with application to cluster algebras of rank 3.</b><br>
       <strong>Changjian FU</strong>, Zhanhong LIANG<br>
         <a href="https://arxiv.org/abs/arXiv:2503.22101"><div class="color-button">arXiv:2503.22101</div></a><br>
