@@ -14,4 +14,7 @@ You can find my selected talks below.
 	<li>2024.08  <a href="denominator_conjecture.pdf">On denominator conjecuter of cluster algebras</a><br> Talk   given at  Interna
 tional Conference on Triangulated Categories and Related Topics, Northeast Nor
 mal University, Changchun</li>
+	<li>2025.08 
+		<a href="CRiCA(1).pdf">Reduction of Scattering diagrams with application to exchange quivers</a><br> Tsinghua Workshop on Cluster Algebras
+	</li>
 </ul>
