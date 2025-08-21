@@ -15,6 +15,6 @@ You can find my selected talks below.
 tional Conference on Triangulated Categories and Related Topics, Northeast Nor
 mal University, Changchun</li>
 	<li>2025.08 
-		<a href="CRiCA(1).pdf">Reduction of Scattering diagrams with application to exchange quivers</a><br> Tsinghua Workshop on Cluster Algebras
+		<a href="CRiCA(1).pdf">Reduction of Scattering diagrams with application to exchange quivers</a><br> Tsinghua Workshop on Cluster Algebras, Beijing
 	</li>
 </ul>
