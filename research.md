@@ -33,7 +33,7 @@ title: Research
         <a href="https://arxiv.org/abs/2407.11826"><div class="color-button">arXiv:2407.11826</div></a><br>
     </li>
     <li>
-        <b>τ-tilting graphs and quotients.</b><br>
+        <b>Connectivity of τ-tilting graphs for quasi-tilted algebras and quotients of g-tame algebras.</b><br>
         <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1252/2475.htm">Shengfei GENG</a>, <a href="https://faculty.swjtu.edu.cn/LiuPin/zh_CN/index/87705/list/index.htm">Pin LIU</a><br>
         <a href="https://arxiv.org/abs/2401.05158"><div class="color-button">arXiv:2401.05158</div></a><br>
     </li>
