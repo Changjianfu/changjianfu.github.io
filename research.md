@@ -23,11 +23,6 @@ title: Research
         <a href="https://arxiv.org/abs/arXiv:2410.04401"><div class="color-button">arXiv:2401.04401</div></a><br>
     </li>
     <li>
-        <b>On denominator conjecture for cluster algebras of finite type.</b><br>
-        <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1252/2475.htm">Shengfei GENG</a><br>
-        <a href="https://arxiv.org/abs/2409.10914"><div class="color-button">arXiv:2409.10914</div></a><br>
-    </li>
-    <li>
         <b>Denominator conjecture for some surface cluster algebras.</b><br>
         <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1252/2475.htm">Shengfei GENG</a><br>
         <a href="https://arxiv.org/abs/2407.11826"><div class="color-button">arXiv:2407.11826</div></a><br>
@@ -49,6 +44,12 @@ title: Research
 
 <h2>Publications</h2>
 <ul>
+      <li>
+        <b>On denominator conjecture for cluster algebras of finite type.</b><br>
+        <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1252/2475.htm">Shengfei GENG</a><br>
+        <i>Math. Zeit.</i> 312 (2026), no. 1, article 19.
+        <a href="https://link.springer.com/article/10.1007/s00209-025-03903-7"><div class="color-button">DOI</div></a><br>
+    </li>
     <li>
         <b>"On F-polynomials for generalized quantum cluster algebras and Gupta's formula"</b><br>
         <strong>Changjian FU</strong>, Liangang PENG, Huihui YE<br>
