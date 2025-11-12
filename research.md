@@ -7,11 +7,7 @@ title: Research
 
 <h2>Preprints</h2>
 <ul>
-     <li>
-        <b>A short proof for the acyclicity of oriented exchange graphs of cluster algebras.</b><br>
-       Shuhao DENG, <strong>Changjian FU</strong><br>
-        <a href="https://arxiv.org/abs/arXiv:2504.10245"><div class="color-button"> arXiv:2504.10245</div></a><br>
-    </li>
+     
      <li>
         <b>Pseudo grading on cluster automorphism group with application to cluster algebras of rank 3.</b><br>
       <strong>Changjian FU</strong>, Zhanhong LIANG<br>
@@ -49,6 +45,12 @@ title: Research
         <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1252/2475.htm">Shengfei GENG</a><br>
         <i>Math. Zeit.</i> 312 (2026), no. 1, article 19.
         <a href="https://link.springer.com/article/10.1007/s00209-025-03903-7"><div class="color-button">DOI</div></a><br>
+    </li>
+     <li>
+        <b>A short proof for the acyclicity of oriented exchange graphs of cluster algebras.</b><br>
+       Shuhao DENG, <strong>Changjian FU</strong><br>
+        <i>Archiv der Mathematik </i> 125 (2025), 605-610.
+        <a href="https://link.springer.com/article/10.1007/s00013-025-02173-3"><div class="color-button"> DOI </div></a><br>
     </li>
     <li>
         <b>"On F-polynomials for generalized quantum cluster algebras and Gupta's formula"</b><br>
