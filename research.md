@@ -40,13 +40,13 @@ title: Research
 <h2>Publications</h2>
 <ul>
       <li>
-        <b>On denominator conjecture for cluster algebras of finite type.</b><br>
+        <b>"On denominator conjecture for cluster algebras of finite type"</b><br>
         <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1252/2475.htm">Shengfei GENG</a><br>
         <i>Math. Zeit.</i> 312 (2026), no. 1, article 19.
         <a href="https://link.springer.com/article/10.1007/s00209-025-03903-7"><div class="color-button">DOI</div></a><br>
     </li>
      <li>
-        <b>A short proof for the acyclicity of oriented exchange graphs of cluster algebras.</b><br>
+        <b>"A short proof for the acyclicity of oriented exchange graphs of cluster algebras"</b><br>
        Shuhao DENG, <strong>Changjian FU</strong><br>
         <i>Archiv der Mathematik </i> 125 (2025), 605-610.
         <a href="https://link.springer.com/article/10.1007/s00013-025-02173-3"><div class="color-button">DOI</div></a><br>
