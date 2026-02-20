@@ -17,10 +17,9 @@ title: Research
       <strong>Changjian FU</strong>, Haicheng Zhang<br>
         <a href="https://arxiv.org/abs/arXiv:2511.14240 "><div class="color-button">arXiv:2511.14240</div></a><br>
     </li>
-     
-      <li>
-        <b>f-vectors and F-invariant in generalized cluster algebras.</b><br>
-      Huihui YE, <strong>Changjian FU</strong><br>
+     <li>
+        <b>$f$-vectors and $F$-invariant in generalized cluster algebras.</b><br>
+       Huihui YE, <strong> Changjian FU</strong><br>
         <a href="https://arxiv.org/abs/arXiv:2504.11940"><div class="color-button">arXiv:2504.11940</div></a><br>
     </li>
      <li>
