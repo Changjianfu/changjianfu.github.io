@@ -6,7 +6,23 @@ title: Research
 
 
 <h2>Preprints</h2>
-<ul>
+<ul> 
+      <li>
+        <b>On endomorphism algebras of silting complexes over hereditary abelian categories.</b><br>
+      Wei DAI,<strong>Changjian FU</strong>, Liangang PENG<br>
+        <a href="https://arxiv.org/abs/arXiv:2602.17197"><div class="color-button">arXiv:2602.17197</div></a><br>
+    </li>
+     <li>
+        <b>From quantum groups to quantum cluster algebras.</b><br>
+      <strong>Changjian FU</strong>, Haicheng Zhang<br>
+        <a href="https://arxiv.org/abs/arXiv:2511.14240 "><div class="color-button">arXiv:2511.14240</div></a><br>
+    </li>
+     
+      <li>
+        <b>f-vectors and F-invariant in generalized cluster algebras.</b><br>
+      Huihui YE, <strong>Changjian FU</strong><br>
+        <a href="https://arxiv.org/abs/arXiv:2504.11940"><div class="color-button">arXiv:2504.11940</div></a><br>
+    </li>
      <li>
         <b>Pseudo grading on cluster automorphism group with application to cluster algebras of rank 3.</b><br>
       <strong>Changjian FU</strong>, Zhanhong LIANG<br>
