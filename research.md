@@ -11,13 +11,12 @@ title: Research
         <b>On higher extensions of quiver representations over $\mathbb{F}_1$.</b><br>
       <strong>Changjian FU</strong>, Liang YANG, Zhiyuan ZENG<br>
         <a href="https://arxiv.org/abs/arXiv:2606.03086"><div class="color-button">arXiv:2606.03086</div></a><br>
-    </li>
-
+      </li>
        <li>
         <b>Are cluster automorphism groups finitely generated?</b><br>
       <strong>Changjian FU</strong>, Zhanhong LIANG, Yinzhi WANG<br>
         <a href="https://arxiv.org/abs/arXiv:2605.16854"><div class="color-button">arXiv:2605.16854 </div></a><br>
-    </li>
+      </li>
       <li>
         <b>On endomorphism algebras of silting complexes over hereditary abelian categories.</b><br>
       Wei DAI,<strong>Changjian FU</strong>, Liangang PENG<br>
