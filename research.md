@@ -62,8 +62,8 @@ title: Research
       <li>
         <b>Pseudo grading on cluster automorphism group with application to cluster algebras of rank 3.</b><br>
       <strong>Changjian FU</strong>, Zhanhong LIANG<br>
+              <i> to appear in Israel J. Math.</i>
         <a href="https://arxiv.org/abs/arXiv:2503.22101"><div class="color-button">arXiv:2503.22101</div></a><br>
-       <i> to appear in Israel J. Math.</i>
     </li>
       <li>
         <b>"On denominator conjecture for cluster algebras of finite type"</b><br>
