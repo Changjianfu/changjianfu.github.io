@@ -32,11 +32,7 @@ title: Research
        Huihui YE, <strong> Changjian FU</strong><br>
         <a href="https://arxiv.org/abs/arXiv:2504.11940"><div class="color-button">arXiv:2504.11940</div></a><br>
     </li>
-     <li>
-        <b>Pseudo grading on cluster automorphism group with application to cluster algebras of rank 3.</b><br>
-      <strong>Changjian FU</strong>, Zhanhong LIANG<br>
-        <a href="https://arxiv.org/abs/arXiv:2503.22101"><div class="color-button">arXiv:2503.22101</div></a><br>
-    </li>
+    
     <li>
         <b>A correspondence between additive and monoidal categorifications with application to Grassmannian cluster categories.</b><br>
         Karin BAUR, <strong>Changjian FU</strong>, <a href="https://sites.google.com/view/jianrong-li/home">Jianrong LI</a><br>
@@ -64,6 +60,11 @@ title: Research
 
 <h2>Publications</h2>
 <ul>
+      <li>
+        <b>Pseudo grading on cluster automorphism group with application to cluster algebras of rank 3.</b><br>
+      <strong>Changjian FU</strong>, Zhanhong LIANG<br>
+        <a href="https://arxiv.org/abs/arXiv:2503.22101"><div class="color-button">to appear in Israel J. Math.</div></a><br>
+    </li>
       <li>
         <b>"On denominator conjecture for cluster algebras of finite type"</b><br>
         <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1252/2475.htm">Shengfei GENG</a><br>
