@@ -21,7 +21,7 @@ title: Research
         <b>On endomorphism algebras of silting complexes over hereditary abelian categories.</b><br>
       Wei DAI,<strong>Changjian FU</strong>, Liangang PENG<br>
         <a href="https://arxiv.org/abs/arXiv:2602.17197"><div class="color-button">arXiv:2602.17197</div></a><br>
-    </li>
+     </li>
      <li>
         <b>From quantum groups to quantum cluster algebras.</b><br>
       <strong>Changjian FU</strong>, Haicheng Zhang<br>
@@ -32,7 +32,6 @@ title: Research
        Huihui YE, <strong> Changjian FU</strong><br>
         <a href="https://arxiv.org/abs/arXiv:2504.11940"><div class="color-button">arXiv:2504.11940</div></a><br>
     </li>
-    
     <li>
         <b>A correspondence between additive and monoidal categorifications with application to Grassmannian cluster categories.</b><br>
         Karin BAUR, <strong>Changjian FU</strong>, <a href="https://sites.google.com/view/jianrong-li/home">Jianrong LI</a><br>
@@ -63,7 +62,8 @@ title: Research
       <li>
         <b>Pseudo grading on cluster automorphism group with application to cluster algebras of rank 3.</b><br>
       <strong>Changjian FU</strong>, Zhanhong LIANG<br>
-        <a href="https://arxiv.org/abs/arXiv:2503.22101"><div class="color-button">to appear in Israel J. Math.</div></a><br>
+        <a href="https://arxiv.org/abs/arXiv:2503.22101"><div class="color-button">arXiv:2503.22101</div></a>
+       <i> to appear in Israel J. Math.</i>
     </li>
       <li>
         <b>"On denominator conjecture for cluster algebras of finite type"</b><br>
