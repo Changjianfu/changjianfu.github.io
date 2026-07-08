@@ -7,7 +7,6 @@ title: Research
 
 <h2>Preprints</h2>
 <ul> 
-       
        <li>
         <b>Are cluster automorphism groups finitely generated?</b><br>
       <strong>Changjian FU</strong>, Zhanhong LIANG, Yinzhi WANG<br>
