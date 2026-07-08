@@ -57,7 +57,7 @@ title: Research
        <li>
         <b>On higher extensions of quiver representations over $\mathbb{F}_1$.</b><br>
       <strong>Changjian FU</strong>, Liang YANG, Zhiyuan ZENG<br>
-              <i>Comm. Algebra</i> (2026),1-9.
+              <i>Comm. Algebra</i> (2026), 1-9.
         <a href="https://doi.org/10.1080/00927872.2026.2693621"><div class="color-button">DOI</div></a><br>
       </li>
       <li>
