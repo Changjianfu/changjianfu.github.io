@@ -7,11 +7,7 @@ title: Research
 
 <h2>Preprints</h2>
 <ul> 
-       <li>
-        <b>On higher extensions of quiver representations over $\mathbb{F}_1$.</b><br>
-      <strong>Changjian FU</strong>, Liang YANG, Zhiyuan ZENG<br>
-        <a href="https://arxiv.org/abs/arXiv:2606.03086"><div class="color-button">arXiv:2606.03086</div></a><br>
-      </li>
+       
        <li>
         <b>Are cluster automorphism groups finitely generated?</b><br>
       <strong>Changjian FU</strong>, Zhanhong LIANG, Yinzhi WANG<br>
@@ -59,6 +55,12 @@ title: Research
 
 <h2>Publications</h2>
 <ul>
+       <li>
+        <b>On higher extensions of quiver representations over $\mathbb{F}_1$.</b><br>
+      <strong>Changjian FU</strong>, Liang YANG, Zhiyuan ZENG<br>
+              <i>Comm. Algebra</i>(2026),1-9.
+        <a href="https://doi.org/10.1080/00927872.2026.2693621"><div class="color-button">DOI</div></a><br>
+      </li>
       <li>
         <b>Pseudo grading on cluster automorphism group with application to cluster algebras of rank 3.</b><br>
       <strong>Changjian FU</strong>, Zhanhong LIANG<br>
