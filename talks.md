@@ -17,4 +17,7 @@ mal University, Changchun</li>
 	<li>2025.08 
 		<a href="CRiCA(1).pdf">Reduction of Scattering diagrams with application to exchange quivers</a><br> Tsinghua Workshop on Cluster Algebras, Beijing
 	</li>
+	<li>2026.06 
+		<a href="rep_F1_and_hall_algebra.pdf">Quiver representation over $\mathbb{F}_1$ and Hall algebras</a><br> Seminar on Recent Advances in Algebra, Shantou
+	</li>
 </ul>
