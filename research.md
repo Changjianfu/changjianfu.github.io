@@ -7,6 +7,11 @@ title: Research
 
 <h2>Preprints</h2>
 <ul> 
+        <li>
+        <b>Homological rigidity of quiver representations over $\mathbb{F}_1$.</b><br>
+      <strong>Changjian FU</strong>, Liang YANG, Zhiyuan ZENG<br>
+        <a href="https://arxiv.org/abs/arXiv:2607.10253"><div class="color-button">arXiv:2607.10253</div></a><br>
+      </li>
        <li>
         <b>Are cluster automorphism groups finitely generated?</b><br>
       <strong>Changjian FU</strong>, Zhanhong LIANG, Yinzhi WANG<br>
