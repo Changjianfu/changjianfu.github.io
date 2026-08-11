@@ -7,6 +7,11 @@ title: Research
 
 <h2>Preprints</h2>
 <ul> 
+     <li>
+        <b> GIM and Elliptic Lie algebras via Ringel--Hall Lie algebras.</b><br>
+      <strong>Changjian FU</strong>, Zhanhong LIANG, Ming LU<br>
+        <a href="https://arxiv.org/abs/arXiv:2608.07877"><div class="color-button">arXiv:2608.07877 </div></a><br>
+    </li>
         <li>
         <b>Homological rigidity of quiver representations over $\mathbb{F}_1$.</b><br>
       <strong>Changjian FU</strong>, Liang YANG, Zhiyuan ZENG<br>
@@ -60,13 +65,13 @@ title: Research
 <h2>Publications</h2>
 <ul>
        <li>
-        <b>On higher extensions of quiver representations over $\mathbb{F}_1$.</b><br>
+        <b>"On higher extensions of quiver representations over $\mathbb{F}_1$"</b><br>
       <strong>Changjian FU</strong>, Liang YANG, Zhiyuan ZENG<br>
               <i>Comm. Algebra</i> (2026), 1-9.
         <a href="https://doi.org/10.1080/00927872.2026.2693621"><div class="color-button">DOI</div></a><br>
       </li>
       <li>
-        <b>Pseudo grading on cluster automorphism group with application to cluster algebras of rank 3.</b><br>
+        <b>"Pseudo grading on cluster automorphism group with application to cluster algebras of rank 3"</b><br>
       <strong>Changjian FU</strong>, Zhanhong LIANG<br>
               <i> to appear in Israel J. Math.</i>
         <a href="https://arxiv.org/abs/arXiv:2503.22101"><div class="color-button">arXiv:2503.22101</div></a><br>
