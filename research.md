@@ -38,11 +38,6 @@ title: Research
         <a href="https://arxiv.org/abs/arXiv:2504.11940"><div class="color-button">arXiv:2504.11940</div></a><br>
     </li>
     <li>
-        <b>A correspondence between additive and monoidal categorifications with application to Grassmannian cluster categories.</b><br>
-        Karin BAUR, <strong>Changjian FU</strong>, <a href="https://sites.google.com/view/jianrong-li/home">Jianrong LI</a><br>
-        <a href="https://arxiv.org/abs/arXiv:2410.04401"><div class="color-button">arXiv:2401.04401</div></a><br>
-    </li>
-    <li>
         <b>Denominator conjecture for some surface cluster algebras.</b><br>
         <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1252/2475.htm">Shengfei GENG</a><br>
         <a href="https://arxiv.org/abs/2407.11826"><div class="color-button">arXiv:2407.11826</div></a><br>
@@ -75,7 +70,13 @@ title: Research
       <strong>Changjian FU</strong>, Zhanhong LIANG<br>
               <i> to appear in Israel J. Math.</i>
         <a href="https://arxiv.org/abs/arXiv:2503.22101"><div class="color-button">arXiv:2503.22101</div></a><br>
-    </li>
+      </li>
+       <li>
+        <b>A correspondence between additive and monoidal categorifications with application to Grassmannian cluster categories.</b><br>
+        Karin BAUR, <strong>Changjian FU</strong>, <a href="https://sites.google.com/view/jianrong-li/home">Jianrong LI</a><br>
+            <i> J. Pure Appl. Algebra  </i>   230 (2026), no. 11, 108379.
+        <a href="https://doi.org/10.1016/j.jpaa.2026.108379"><div class="color-button">DOI</div></a><br>
+     </li>
       <li>
         <b>"On denominator conjecture for cluster algebras of finite type"</b><br>
         <strong>Changjian FU</strong>, <a href="https://math.scu.edu.cn/info/1252/2475.htm">Shengfei GENG</a><br>
