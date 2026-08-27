@@ -72,7 +72,7 @@ title: Research
         <a href="https://arxiv.org/abs/arXiv:2503.22101"><div class="color-button">arXiv:2503.22101</div></a><br>
       </li>
        <li>
-        <b>A correspondence between additive and monoidal categorifications with application to Grassmannian cluster categories.</b><br>
+        <b>"A correspondence between additive and monoidal categorifications with application to Grassmannian cluster categories"</b><br>
         Karin BAUR, <strong>Changjian FU</strong>, <a href="https://sites.google.com/view/jianrong-li/home">Jianrong LI</a><br>
             <i> J. Pure Appl. Algebra  </i>   230 (2026), no. 11, 108379.
         <a href="https://doi.org/10.1016/j.jpaa.2026.108379"><div class="color-button">DOI</div></a><br>
