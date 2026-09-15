@@ -6,7 +6,12 @@ title: Research
 
 
 <h2>Preprints</h2>
-<ul> 
+<ul>  
+     <li>
+        <b>Acyclic quantum cluster algebras via Hall algebras associated to cluster categories.</b><br>
+      <strong>Changjian FU</strong>, Haicheng Zhang<br>
+        <a href="https://arxiv.org/abs/arXiv:2609.14388"><div class="color-button">arXiv:2609.14388</div></a><br>
+    </li>
      <li>
         <b> GIM and Elliptic Lie algebras via Ringel--Hall Lie algebras.</b><br>
       <strong>Changjian FU</strong>, Zhanhong LIANG, Ming LU<br>
