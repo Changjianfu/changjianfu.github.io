@@ -63,7 +63,7 @@ title: Research
         <b>On endomorphism algebras of silting complexes over hereditary abelian categories.</b><br>
       Wei DAI,<strong>Changjian FU</strong>, Liangang PENG<br>
            <i>Journal of Algebra</i> (2027).
-        <a href="https://10.1016/j.jalgebra.2026.09.023"><div class="color-button">DOI</div></a><br>
+        <a href="https://doi.org/10.1016/j.jalgebra.2026.09.023"><div class="color-button">DOI</div></a><br>
      </li>
        <li>
         <b>"On higher extensions of quiver representations over $\mathbb{F}_1$"</b><br>
