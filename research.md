@@ -27,11 +27,6 @@ title: Research
       <strong>Changjian FU</strong>, Zhanhong LIANG, Yinzhi WANG<br>
         <a href="https://arxiv.org/abs/arXiv:2605.16854"><div class="color-button">arXiv:2605.16854 </div></a><br>
       </li>
-      <li>
-        <b>On endomorphism algebras of silting complexes over hereditary abelian categories.</b><br>
-      Wei DAI,<strong>Changjian FU</strong>, Liangang PENG<br>
-        <a href="https://arxiv.org/abs/arXiv:2602.17197"><div class="color-button">arXiv:2602.17197</div></a><br>
-     </li>
      <li>
         <b>From quantum groups to quantum cluster algebras.</b><br>
       <strong>Changjian FU</strong>, Haicheng Zhang<br>
@@ -64,6 +59,12 @@ title: Research
 
 <h2>Publications</h2>
 <ul>
+      <li>
+        <b>On endomorphism algebras of silting complexes over hereditary abelian categories.</b><br>
+      Wei DAI,<strong>Changjian FU</strong>, Liangang PENG<br>
+           <i>Journal of Algebra</i> (2027).
+        <a href="https://10.1016/j.jalgebra.2026.09.023"><div class="color-button">DOI</div></a><br>
+     </li>
        <li>
         <b>"On higher extensions of quiver representations over $\mathbb{F}_1$"</b><br>
       <strong>Changjian FU</strong>, Liang YANG, Zhiyuan ZENG<br>
