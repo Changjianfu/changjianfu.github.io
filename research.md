@@ -62,7 +62,7 @@ title: Research
       <li>
         <b>"On endomorphism algebras of silting complexes over hereditary abelian categories"</b><br>
       Wei DAI,<strong>Changjian FU</strong>, Liangang PENG<br>
-           <i>Journal of Algebra</i> (2027).
+           <i>Journal of Algebra</i> 712 (2027), 976-1001.
         <a href="https://doi.org/10.1016/j.jalgebra.2026.09.023"><div class="color-button">DOI</div></a><br>
      </li>
        <li>
